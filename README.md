@@ -1,2 +1,2 @@
-"# Resonsive-Simple-calculator" 
-"# Resonsive-Simple-calculator" 
+"# Responsive-Simple-calculator" 
+"# Responsive-Simple-calculator" 
